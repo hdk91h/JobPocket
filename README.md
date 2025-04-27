@@ -1,0 +1,1 @@
+# Vite React TS Template with Store, Router and Workbox (PWA)

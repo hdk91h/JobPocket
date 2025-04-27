@@ -1,0 +1,1 @@
+// vite-plugin-pwa managed die Datei
